@@ -1,0 +1,8 @@
+name = "stalltcp-worker-pro"
+main = "src/worker.js"
+compatibility_date = "2025-01-01"
+
+workers_dev = true
+
+[vars]
+UUID = "06b65903-406d-4a41-8463-6fd5c0ee7798"
