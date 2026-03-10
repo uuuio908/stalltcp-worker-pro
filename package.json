@@ -1,0 +1,9 @@
+{
+  "name": "stalltcp-worker-pro",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker TCP Proxy Panel",
+  "main": "src/worker.js",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  }
+}
